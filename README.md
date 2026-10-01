@@ -35,7 +35,7 @@ A lightweight, portable, and real-time Windows system monitoring application bui
 Developed by **Tito Myny**, an independent software developer based in Ghent, Belgium.
 
 - **Main GitHub Profile:** [://github.com](https://github.com/titomyny/)
-- **Official LinkedIn:** [://linkedin.com](https://www.://linkedin.com/in/tito-myny)
+- **Official LinkedIn:** [://linkedin.com](https://linkedin.com/in/tito-myny)
 - **Official X:** [@Tito_myny](https://x.com/tito_myny)
 
 *Note: This repository is part of my official software portfolio. Unofficial distributions or profiles using my name are not affiliated with this project.*
