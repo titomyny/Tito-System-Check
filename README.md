@@ -37,5 +37,6 @@ Developed by **Tito Myny**, an independent software developer based in Ghent, Be
 - **Main GitHub Profile:** [://github.com](https://github.com/titomyny/)
 - **Official LinkedIn:** [://linkedin.com](https://linkedin.com/in/tito-myny)
 - **Official X:** [@Tito_myny](https://x.com/tito_myny)
+- **Website:** (Titoware.com)
 
 *Note: This repository is part of my official software portfolio. Unofficial distributions or profiles using my name are not affiliated with this project.*
